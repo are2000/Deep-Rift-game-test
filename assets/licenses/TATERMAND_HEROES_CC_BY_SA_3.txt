@@ -1,0 +1,11 @@
+Top-Down Sci-fi Shooter Characters 2.0
+Author: Tatermand
+Source: https://opengameart.org/content/top-down-sci-fi-shooter-characters-20
+License: Creative Commons Attribution-ShareAlike 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Project use: eight derived top-down hero sheets and eight Crew portraits.
+Derivatives are recolored, resized, rotated and animated from the layered PSD.
+These derived art files remain available under CC BY-SA 3.0. Game code and
+unrelated assets are separate works and are not relicensed by this notice.
+Downloaded and derived: 2026-08-22.

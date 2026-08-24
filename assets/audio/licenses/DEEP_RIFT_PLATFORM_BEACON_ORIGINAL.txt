@@ -1,0 +1,16 @@
+DEEP RIFT — SOFT LANDING PLATFORM BEACON
+
+File: assets/audio/sfx/sfx_platform_beacon_loop.ogg
+Created: 2026-08-23
+Author: DEEP RIFT project original asset
+
+Purpose:
+Replacement for the former noisy landing-platform beacon. The new cue uses
+only gently enveloped tonal pulses (392 Hz and 523.25 Hz with quiet harmonics),
+contains no white-noise layer, and is safe for low-volume repeated use.
+
+Format:
+OGG/Vorbis, mono, 48 kHz, 2.4 seconds.
+
+License:
+Original project asset. May be distributed and modified as part of DEEP RIFT.

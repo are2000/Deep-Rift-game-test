@@ -1,0 +1,5 @@
+Kenney — Tower Defense (Top-Down)
+Source: https://kenney.nl/assets/tower-defense-top-down
+Mirror: https://opengameart.org/content/tower-defense-300-tilessprites
+License: Creative Commons CC0 1.0
+Runtime derivatives: kenney_tower_*.png, kenney_combat_sentry.png, kenney_support_drone.png

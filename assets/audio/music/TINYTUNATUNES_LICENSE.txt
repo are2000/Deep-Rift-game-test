@@ -1,0 +1,18 @@
+Free Dark Sci Fi Indie Game Music Pack (5 Tracks)
+Creator: tinytunatunes
+Source: https://tinytunatunes.itch.io/free-dark-sci-fi-indie-game-music-pack-5-tracks
+Downloaded: 2026-08-22
+
+License text from the source page:
+You may use this music for free in personal and commercial projects, including games, videos, and other media.
+You are allowed to edit, loop, remix, and adapt the tracks to fit your project.
+You may not resell, redistribute, or sublicense this music as standalone audio files or as part of another asset pack.
+Credit is appreciated: Music by tinytunatunes | https://tinytunatunes.itch.io/
+
+Project use:
+- music_menu_loop.ogg: Main menu loop
+- music_hangar_loop.ogg: Bonus / hangar loop
+- music_explore_loop.ogg: Exploration loop
+- music_pressure_loop.ogg: Tension loop
+- music_boss_loop.ogg: Combat loop
+Converted locally from 24-bit / 48 kHz WAV to OGG/Vorbis for in-game use.

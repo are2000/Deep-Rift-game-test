@@ -1,0 +1,7 @@
+voxel / low-poly hybrid cave pack
+Author: rubberduck
+Source: https://opengameart.org/content/voxel-low-poly-hybrid-cave-pack
+License: CC0 1.0 Universal
+Demo role: visual reference for short-lived rock fragments and dust behavior.
+The current runtime atlas uses Kenney's smooth cave previews; no Blender or
+Goxel source is loaded at runtime.

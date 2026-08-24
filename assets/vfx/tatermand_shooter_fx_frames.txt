@@ -1,0 +1,12 @@
+00 plasma_blue
+01 plasma_fire
+02 plasma_hit
+03 fireball
+04 firetrail
+05 firehit
+06 bullet
+07 yellow
+08 frag_blue
+09 frag_green
+10 ion
+11 ionhit

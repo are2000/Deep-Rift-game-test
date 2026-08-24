@@ -1,0 +1,22 @@
+DEEP RIFT vehicle system — adopted sources
+
+1) Tatermand — Top-Down Tanks Shooter Pack
+Source: https://opengameart.org/content/top-down-tanks-shooter-pack
+License: CC BY-SA 3.0
+Commercial use explicitly confirmed by author on the source page.
+Derived runtime files:
+- assets/vehicles/driller_vehicle_body.png
+- assets/vehicles/vehicle_body_transformer_alt.png
+- assets/vehicles/driller_mining_turret.png
+- assets/vehicles/gunner_mining_turret.png
+Attribution: Tatermand / OpenGameArt.org
+
+2) Ragewortt — Top Down Sci-Fi Tanks
+Source: https://opengameart.org/content/top-down-sci-fi-tanks
+License: CC BY 3.0
+Derived runtime files:
+- assets/vehicles/gunner_vehicle_body.png
+- assets/vehicles/vehicle_tracks_overlay.png
+Attribution: Ragewortt / Hippo Assets / OpenGameArt.org
+
+The vehicle concept is an original modular mining-combat car system. It does not use Transformers names, characters, logos, or copied designs.

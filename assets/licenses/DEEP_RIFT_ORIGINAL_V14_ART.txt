@@ -1,0 +1,11 @@
+DEEP RIFT v1.4 original generated/processed runtime art
+Created specifically for this project on 2026-08-23.
+Files:
+- assets/tiles/organic_cave_rock.png
+- assets/equipment/combat_drone_laser.png
+- assets/equipment/combat_drone_gatling.png
+- assets/equipment/tower_clinic_medical.png
+- assets/equipment/tower_lightning_relay.png
+- assets/equipment/tower_fuel_rig.png
+The source generations were post-processed locally into transparent, optimized runtime sprites.
+No third-party attribution is required for these six files.

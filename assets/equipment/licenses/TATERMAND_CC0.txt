@@ -1,0 +1,13 @@
+Asset source: Top-Down Sci-fi Shooter/Defense Pack
+Author: Tatermand
+Source: https://opengameart.org/content/top-down-sci-fi-shooterdefense-pack
+Original file: Defense.psd
+License: Creative Commons Zero (CC0 1.0 Universal)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+Derived files used by DEEP RIFT:
+- tatermand_lightning.png
+- tatermand_clinic.png
+- tatermand_fuel.png
+
+The original platform layers were cropped, recolored, composited with new animated machinery overlays, and arranged into eight-frame transparent sprite strips for DEEP RIFT. Attribution is not legally required by CC0, but this notice is retained for provenance and responsible asset tracking.

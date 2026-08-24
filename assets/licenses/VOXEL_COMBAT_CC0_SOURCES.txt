@@ -1,0 +1,44 @@
+DEEP RIFT v1.7 — VOXEL / COMBAT VISUAL SOURCES
+Generated: 2026-08-23
+
+RUNTIME DERIVATIVES
+
+1) assets/tiles/kenney_voxel_surface_atlas.png
+   Source: Kenney Voxel Pack
+   URL: https://kenney.nl/assets/voxel-pack
+   Source files used: greystone.png, redstone.png, stone_grass.png,
+   ice.png, brick_grey.png, stone_diamond.png
+   License: Creative Commons Zero v1.0 Universal (CC0)
+   Source pack states: 190 files, 128x128, CC0.
+
+2) assets/vfx/kenney_combat_particles.png
+   Source: Kenney Particle Pack
+   URL: https://kenney.nl/assets/particle-pack
+   Source files used: muzzle_01.png, muzzle_03.png, spark_05.png,
+   spark_06.png, smoke_07.png, smoke_03.png, trace_03.png, dirt_02.png
+   License: Creative Commons Zero v1.0 Universal (CC0)
+   Source pack states: 80 files, 512x512, CC0.
+
+3) assets/structures/voxel_human_facility_atlas.png
+   Original DEEP RIFT offline-generated voxel art. The module vocabulary and
+   palette study were informed by the CC0 Kenney Voxel Pack and the following
+   researched CC0 modular/voxel libraries; no third-party 3D mesh is shipped:
+
+   Kenney Modular Space Kit
+   https://kenney.nl/assets/modular-space-kit
+   License: CC0
+
+   OpenGameArt Voxel Buildings by mehrasaur
+   https://opengameart.org/content/voxel-buildings
+   License: CC0
+
+   OpenGameArt small voxel tower defense asset pack by Tim Rockk
+   https://opengameart.org/content/small-voxel-tower-defense-asset-pack
+   License: CC0
+
+GENERATION
+   tools/generate_voxel_combat_assets.py
+
+All source art incorporated into runtime files above is CC0. Attribution is
+not legally required, but Kenney and the OpenGameArt creators remain credited
+in project documentation as a courtesy.

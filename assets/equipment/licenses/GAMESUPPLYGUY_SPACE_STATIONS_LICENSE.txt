@@ -1,0 +1,19 @@
+Asset: 4 x 15 Space Stations (2D Space Units PNG + PSD) FREE
+Author: GameSupplyGuy
+Source: https://gamesupply.itch.io/4-x-15-space-stations-2d-space-units
+Original archive: 60CoolSpaceSations.zip
+Original upload included transparent PNG variants and layered PSD files.
+
+Licence provenance:
+- The asset is distributed by its author as a free / name-your-own-price download.
+- The author's GameSupply ALL-IN Legacy Megapack, which explicitly contains the same 60CoolSpaceSations.zip file, states: "LICENSE info: CC4".
+  https://gamesupply.itch.io/all-in-one-gamesupply-bundle
+- DEEP RIFT conservatively treats this as Creative Commons Attribution 4.0 and retains attribution to GameSupplyGuy.
+- The original assets are not used for AI training and are not redistributed as a standalone asset pack.
+
+Derived in-game sprite sheets:
+- gamesupply_lightning.png — based on NormalGlow station #10, with new animated coils, power nodes and electrical arcs.
+- gamesupply_clinic.png — based on NormalGlow station #9, recolored and combined with a medical shell, green cross and orbiting drone.
+- gamesupply_fuel.png — based on NormalGlow station #2, recolored and combined with five fuel chambers, rotating gear, pressure lights and animated hatch.
+
+Before a public commercial store release, retain this notice and the Credits entry. If the publisher requires a more explicit licence statement than the author's "CC4" notice, request written confirmation from GameSupplyGuy.

@@ -1,0 +1,39 @@
+DEEP RIFT Human Facility + Mixed VFX sources
+
+FACILITY MODELS (offline rendered to assets/structures/human_facility_atlas.png)
+1. Quaternius — Ultimate Modular Sci-Fi Pack / LowPoly Modular Sci-Fi Environments
+   https://opengameart.org/content/lowpoly-modular-sci-fi-environments
+   License: CC0
+   Derived frames: q_capsule, q_pod, q_computer, q_vessel, q_crate, q_door, q_column
+2. Kenney — Space Station Kit
+   https://opengameart.org/content/space-station-kit
+   License: CC0
+   Derived frames: k_structure, k_computer, k_container, k_door, k_table
+
+VFX
+3. Tatermand — 2D Shooter Effects (Alpha version)
+   https://opengameart.org/content/2d-shooter-effects-alpha-version
+   License: CC0
+   Derived runtime atlas: assets/vfx/tatermand_shooter_fx_atlas.png
+4. dirkwybe — explosion spritesheet low res
+   https://opengameart.org/content/explosion-spritesheet-low-res
+   License: CC0
+   Derived runtime atlas: assets/vfx/blender_explosion_56f.png
+5. Soluna Software — Explosion effects and more
+   https://opengameart.org/content/explosion-effects-and-more
+   Licenses shown on source: CC0 and CC BY 3.0; attribution retained here.
+   Runtime: soluna_explosion03.png, soluna_energy95.png
+6. Wenrexa — Assets Free Laser Bullets Pack 2020
+   https://opengameart.org/content/assets-free-laser-bullets-pack-2020
+   License: CC0
+   Derived runtime atlas: assets/vfx/wenrexa_laser_atlas.png
+7. Kenney — Smoke particle assets
+   https://opengameart.org/content/smoke-particle-assets
+   License: CC0
+   Derived runtime atlas: assets/vfx/kenney_smoke_explosion_atlas.png
+8. TheJosh + Kenney — Explosion particles sprite atlas
+   https://opengameart.org/content/explosion-particles-sprite-atlas
+   License: CC0
+   Used as source/reference for mobile atlas composition.
+
+The original 3D/PSD archives are not distributed in the lightweight runtime. Only optimized derived PNG atlases are packaged.

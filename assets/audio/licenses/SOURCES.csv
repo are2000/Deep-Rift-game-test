@@ -1,0 +1,178 @@
+filename,source_url,author,license,attribution_required,notes
+sfx_ui_tap.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from click_003.ogg
+sfx_ui_back.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from back_001.ogg
+sfx_ui_error.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from error_006.ogg
+sfx_ui_confirm.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from confirmation_002.ogg
+sfx_ui_purchase.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from maximize_006.ogg
+sfx_ui_equip.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from switch_006.ogg
+sfx_ui_reforge.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from glass_003.ogg
+sfx_weapon_smg_fire_01.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from laserSmall_000.ogg
+sfx_weapon_rail_fire.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from laserLarge_004.ogg
+sfx_weapon_plasma_fire.ogg,https://opengameart.org/content/50-cc0-sci-fi-sfx,rubberduck,CC0 1.0,no,Renamed from shoot_02.ogg
+sfx_weapon_tesla_fire.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from forceField_003.ogg
+sfx_weapon_seeker_launch.ogg,https://opengameart.org/content/50-cc0-sci-fi-sfx,rubberduck,CC0 1.0,no,Renamed from rocket_01.ogg
+sfx_weapon_void_fire.ogg,https://opengameart.org/content/50-cc0-sci-fi-sfx,rubberduck,CC0 1.0,no,Renamed from weird_04.ogg
+sfx_weapon_mine_explode.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from explosionCrunch_002.ogg
+sfx_impact_flesh_01.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactSoft_medium_002.ogg
+sfx_impact_armor_01.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactMetal_medium_001.ogg
+sfx_impact_critical.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactBell_heavy_003.ogg
+sfx_player_hurt_01.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactPunch_heavy_001.ogg
+sfx_rock_damage_light_01.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactMining_000.ogg
+sfx_rock_break_01.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactMining_004.ogg
+sfx_player_dash.ogg,https://opengameart.org/content/50-cc0-sci-fi-sfx,rubberduck,CC0 1.0,no,Renamed from teleport_01.ogg
+sfx_player_shield_hit.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from forceField_000.ogg
+sfx_ship_inbound.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from spaceEngineLarge_001.ogg
+sfx_supply_impact.ogg,https://kenney.nl/assets/impact-sounds,Kenney,CC0 1.0,no,Renamed from impactMetal_heavy_004.ogg
+sfx_machine_capture_complete.ogg,https://opengameart.org/content/50-cc0-sci-fi-sfx,rubberduck,CC0 1.0,no,Renamed from terminal_09.ogg
+sfx_boss_generic_roar.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from lowFrequency_explosion_001.ogg
+sfx_explosion_generic.ogg,https://kenney.nl/assets/sci-fi-sounds,Kenney,CC0 1.0,no,Renamed from explosionCrunch_004.ogg
+sfx_pickup_gold.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from pluck_001.ogg
+sfx_pickup_gem.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from glass_006.ogg
+sfx_pickup_xp.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,no,Renamed from tick_002.ogg
+sfx_boss_crystalking_attack_01.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_crystalking_attack_02.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_crystalking_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_crystalking_intro.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_crystalking_phase.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_frostwyrm_attack_01.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_frostwyrm_attack_02.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_frostwyrm_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_frostwyrm_intro.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_frostwyrm_phase.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_magmalord_attack_01.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_magmalord_attack_02.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_magmalord_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_magmalord_intro.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_magmalord_phase.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_riftheart_attack_01.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_riftheart_attack_02.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_riftheart_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_riftheart_intro.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_riftheart_phase.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_sporequeen_attack_01.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_sporequeen_attack_02.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_sporequeen_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_sporequeen_intro.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_sporequeen_phase.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_warden_attack_01.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_warden_attack_02.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_warden_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_warden_intro.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_boss_warden_phase.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_bot_collect.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_bot_cut_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_bot_cut_start.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_bot_hover_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_bot_magnet.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_bomber_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_bomber_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_bomber_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_brood_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_brood_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_brood_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_charger_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_charger_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_charger_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_flamer_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_flamer_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_flamer_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_grub_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_grub_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_grub_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_healer_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_healer_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_healer_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_phaser_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_phaser_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_phaser_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_sentinel_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_sentinel_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_sentinel_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_shielder_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_shielder_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_shielder_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_skitter_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_skitter_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_skitter_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_sniper_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_sniper_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_sniper_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_spitter_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_spitter_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_spitter_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_stalker_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_stalker_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_stalker_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_voidling_attack.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_voidling_death.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_enemy_voidling_hurt.ogg,https://opengameart.org/content/80-cc0-creature-sfx | https://opengameart.org/content/monster-sound-effects-2,rubberduck + Ogrebane,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_machine_capture_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_machine_capture_start.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_platform_beacon_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_platform_fully_powered.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_platform_receive_cell.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_rig_gold_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_rig_xp_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops | https://kenney.nl/assets/rpg-audio,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_ship_land.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_ship_launch.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_supply_open.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_turret_gatling_loop.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_turret_grenade_launch.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_turret_inferno_pulse.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_turret_sniper_fire.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_acid_fire.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_blade_throw.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_boom_fire.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_drill_attack.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_drone_fire.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_gauntlet_slam.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_gravity_launch.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_nail_fire_01.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_orb_hit.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_prism_fire.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_sonic_attack.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_swarm_release.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+sfx_weapon_turret_fire.ogg,https://opengameart.org/content/25-cc0-bang-firework-sfx | https://kenney.nl/assets/sci-fi-sounds,rubberduck + Kenney,CC0 1.0,no,Derived/layered and normalized for Deep Rift
+amb_crystal_cave_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops,rubberduck,CC0 1.0,no,Normalized ambience loop
+amb_frozen_cave_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops,rubberduck,CC0 1.0,no,Normalized ambience loop
+amb_fungal_cave_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops,rubberduck,CC0 1.0,no,Normalized ambience loop
+amb_magma_cave_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops,rubberduck,CC0 1.0,no,Normalized ambience loop
+amb_rift_cave_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops,rubberduck,CC0 1.0,no,Normalized ambience loop
+amb_ruins_cave_loop.ogg,https://opengameart.org/content/30-cc0-sfx-loops,rubberduck,CC0 1.0,no,Normalized ambience loop
+sfx_weapon_smg_fire_01.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_boom_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_rail_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_nail_fire_01.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_turret_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_drone_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_plasma_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_prism_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_sonic_attack.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_turret_gatling_loop.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_turret_sniper_fire.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_turret_grenade_launch.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_explosion_generic.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_mine_explode.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_seeker_explode.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+sfx_weapon_gauntlet_slam.ogg,https://opengameart.org/content/the-free-firearm-sound-library,"Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",CC0 1.0,no,Modern warfare redesign; processed/layered for Deep Rift
+music_menu_loop.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+music_boss_loop.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+music_hangar_loop.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+music_explore_loop.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+music_pressure_loop.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+music_transmission.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+music_stinger_victory.ogg,https://opengameart.org/content/dark-sci-fi-audio-pack,SRG774,CC0 1.0,no,Cohesive cinematic dark sci-fi music pack
+sfx_boss_crystalking_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_crystalking_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_magmalord_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_magmalord_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_sporequeen_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_sporequeen_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_frostwyrm_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_frostwyrm_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_warden_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_warden_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_riftheart_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_boss_riftheart_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_enemy_elite_intro.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts
+sfx_enemy_elite_death.ogg,https://freesound.org/people/craigsmith/packs/37705/,craigsmith / Sunset Editorial Collection,CC0 1.0,no,Layered dinosaur/prehistoric creature vocal with custom material impacts

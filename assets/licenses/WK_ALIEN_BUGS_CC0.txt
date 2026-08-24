@@ -1,0 +1,9 @@
+8 Top-Down Alien Bug Spider Sprites
+Author: W_K_Studio / White Knight Studios
+Source: https://whiteknightstudios.itch.io/8-alien-bug-spider-sprites
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Project use: derived enemy sheets for organic enemies. Images were resized,
+recolored, rotated and given 24-frame procedural motion cycles.
+Downloaded and derived: 2026-08-22.

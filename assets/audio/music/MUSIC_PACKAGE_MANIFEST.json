@@ -1,0 +1,252 @@
+{
+  "schema": "deep-rift.music-pack.v1",
+  "package_id": "deep-rift-dynamic-music-pack-v1",
+  "created_local_date": "2026-08-22",
+  "runtime_root": "assets/audio/music/",
+  "total_audio_files": 17,
+  "total_license_files": 3,
+  "total_audio_bytes": 20562163,
+  "sources": {
+    "tinytunatunes": {
+      "pack": "Free Dark Sci Fi Indie Game Music Pack (5 Tracks)",
+      "url": "https://tinytunatunes.itch.io/free-dark-sci-fi-indie-game-music-pack-5-tracks",
+      "commercial_use": true,
+      "credit": "Music by tinytunatunes"
+    },
+    "alkakrab": {
+      "pack": "Free Sci-Fi Game Music Pack",
+      "url": "https://alkakrab.itch.io/free-sci-fi-game-music-pack",
+      "commercial_use": true,
+      "credit": "Music by alkakrab"
+    },
+    "darthdeus": {
+      "pack": "FREE Combat Music Pack Vol.1",
+      "url": "https://darthdeus.itch.io/free-combat-music-pack-vol-1",
+      "commercial_use": true,
+      "credit_optional": "Music by darthdeus / LogLog Games"
+    }
+  },
+  "runtime_roles": {
+    "menu": "music_menu_loop.ogg",
+    "hangar": "music_hangar_loop.ogg",
+    "pressure": "music_pressure_loop.ogg",
+    "boss": "music_boss_loop.ogg",
+    "victory": "music_stinger_victory.ogg",
+    "transmission": "music_transmission.ogg",
+    "combat_random": [
+      "music_combat_01.ogg",
+      "music_combat_02.ogg",
+      "music_combat_03.ogg",
+      "music_combat_04.ogg"
+    ],
+    "exploration_by_biome": {
+      "crystal": "music_explore_crystal.ogg",
+      "magma": "music_explore_magma.ogg",
+      "fungal": "music_explore_fungal.ogg",
+      "frozen": "music_explore_frozen.ogg",
+      "ruin": "music_explore_ruin.ogg",
+      "rift": "music_explore_rift.ogg"
+    },
+    "exploration_fallback": "music_explore_loop.ogg"
+  },
+  "state_thresholds": {
+    "pressure": "19 or more live enemies, or extraction inbound",
+    "combat": "35 or more live enemies, Rift Surge active, or extraction ship landed",
+    "boss": "live boss exists"
+  },
+  "restore_destination": "Copy assets/audio/music into the DEEP RIFT project root without renaming files.",
+  "current_code_files": [
+    "parts/03_core.js",
+    "parts/14_loop.js",
+    "parts/17_menus.js"
+  ],
+  "audio_files": [
+    {
+      "path": "assets/audio/music/music_boss_loop.ogg",
+      "role_source": "tinytunatunes",
+      "bytes": 1756228,
+      "sha256": "1dbe97aa3e69fd7ac2d76bfc0dcf70fa13b36df733c191bdfaf2a619a4a11102",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 144.0
+    },
+    {
+      "path": "assets/audio/music/music_combat_01.ogg",
+      "role_source": "darthdeus",
+      "bytes": 734384,
+      "sha256": "6f1fabf11f68079809c13c7a17801a255c9fa208ba6fcb9004e676fef1b605b0",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 56.0
+    },
+    {
+      "path": "assets/audio/music/music_combat_02.ogg",
+      "role_source": "darthdeus",
+      "bytes": 658136,
+      "sha256": "d401e35d8d5e4c1f633e55bc1d22a44da3642701b4f5f8c6b9a5338f77b2684f",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 52.364
+    },
+    {
+      "path": "assets/audio/music/music_combat_03.ogg",
+      "role_source": "darthdeus",
+      "bytes": 476640,
+      "sha256": "35d8bd22790510d77e4803cdc087952849a014b6f06a27b50378e261f594a912",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 33.631
+    },
+    {
+      "path": "assets/audio/music/music_combat_04.ogg",
+      "role_source": "darthdeus",
+      "bytes": 341931,
+      "sha256": "680c757e718134ee0448443f7f4a42c5f52ff3f5213427fdbe81f1f0ff31b743",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 25.385
+    },
+    {
+      "path": "assets/audio/music/music_explore_crystal.ogg",
+      "role_source": "alkakrab",
+      "bytes": 2271813,
+      "sha256": "b8805d4e07e9de67b60f514f978faf4ac3062cd16499d56d0a4db1c0ae0406bb",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 202.0
+    },
+    {
+      "path": "assets/audio/music/music_explore_frozen.ogg",
+      "role_source": "alkakrab",
+      "bytes": 2579671,
+      "sha256": "cb8fdb7f17d0598aa9e4591cd6ec95187e45485aafc224a2744dfa8de550fd48",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 209.0
+    },
+    {
+      "path": "assets/audio/music/music_explore_fungal.ogg",
+      "role_source": "alkakrab",
+      "bytes": 1540663,
+      "sha256": "ac833715edee7b90e5210636c0223aa9576b14300442c862f2c42672919bf17d",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 136.0
+    },
+    {
+      "path": "assets/audio/music/music_explore_loop.ogg",
+      "role_source": "tinytunatunes",
+      "bytes": 1224691,
+      "sha256": "729781e7c3ef1a1dae6b43a6f93cfad1b0ce65c777d897bca891a86a636ec5fb",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 128.0
+    },
+    {
+      "path": "assets/audio/music/music_explore_magma.ogg",
+      "role_source": "alkakrab",
+      "bytes": 1466592,
+      "sha256": "40bea26538de40c12dcaeb5ca0b9112bb151de62f8a392ee08625ba541922a9e",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 136.0
+    },
+    {
+      "path": "assets/audio/music/music_explore_rift.ogg",
+      "role_source": "alkakrab",
+      "bytes": 1807172,
+      "sha256": "c4a0dfbfc31376646da0354ff056cd4c2f81dd93bfb94e2a6498a845c2830d79",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 180.0
+    },
+    {
+      "path": "assets/audio/music/music_explore_ruin.ogg",
+      "role_source": "alkakrab",
+      "bytes": 1972972,
+      "sha256": "1903321dea284cd298d33f048e6558fe66ccc3624b56033ba12ab367f25ea61f",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 171.429
+    },
+    {
+      "path": "assets/audio/music/music_hangar_loop.ogg",
+      "role_source": "tinytunatunes",
+      "bytes": 755127,
+      "sha256": "7ac5a573f2e368a64830a22c3b2ca608a85b634ede0597d71122052efdf758e7",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 64.0
+    },
+    {
+      "path": "assets/audio/music/music_menu_loop.ogg",
+      "role_source": "tinytunatunes",
+      "bytes": 674824,
+      "sha256": "9375e58e82a1c4860b4a3d44f4c1ae66f7457455d1e84e9ddc7b221b533de19b",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 64.0
+    },
+    {
+      "path": "assets/audio/music/music_pressure_loop.ogg",
+      "role_source": "tinytunatunes",
+      "bytes": 423924,
+      "sha256": "93ba4fbbc3205da2f9ab73d79b79c657de268fd43e4f4541fccd24d82d0dd5e8",
+      "format": "OGG/Vorbis",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 34.286
+    },
+    {
+      "path": "assets/audio/music/music_stinger_victory.ogg",
+      "role_source": "legacy-project-asset",
+      "bytes": 91504,
+      "sha256": "9acde356c84b1d326a3e7b813e43e8849596a285796144f7fabed898f2c21007",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 5.878
+    },
+    {
+      "path": "assets/audio/music/music_transmission.ogg",
+      "role_source": "legacy-project-asset",
+      "bytes": 1785891,
+      "sha256": "5749841250bf836795f9f83334dc46bc1debf5cf13700a48ab3a873662f64d7e",
+      "format": "OGG/Vorbis",
+      "sample_rate": 44100,
+      "channels": 2,
+      "duration_seconds": 94.041
+    }
+  ],
+  "license_files": [
+    {
+      "path": "assets/audio/music/TINYTUNATUNES_LICENSE.txt",
+      "bytes": 896,
+      "sha256": "bbf05f2c4747b9d94f49218fb6e132d10eb8fdaaed8916f46c9df16050f79abe"
+    },
+    {
+      "path": "assets/audio/music/licenses/ALKAKRAB_SOURCE.txt",
+      "bytes": 555,
+      "sha256": "8001abdc813633920923f493ca4a65c4829d5d2705a2d61129f291fe217225d3"
+    },
+    {
+      "path": "assets/audio/music/licenses/DARTHDEUS_COMBAT_LICENSE.txt",
+      "bytes": 2677,
+      "sha256": "2194919ff8a6860a8e476c9781485a32a7739c24a83d23798811fb3953cc5027"
+    }
+  ]
+}

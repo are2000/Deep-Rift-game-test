@@ -1,0 +1,11 @@
+80 CC0 Creature SFX and 80 CC0 Creature SFX #2
+Author: rubberduck
+Sources:
+https://opengameart.org/content/80-cc0-creature-sfx
+https://opengameart.org/content/80-cc0-creture-sfx-2
+License: CC0 1.0 Universal
+
+Project use: selected sounds were speed/pitch adjusted, normalized, faded and
+encoded to OGG/Vorbis as three Attack, Hurt and Death variants for each normal
+enemy species. Detailed file mapping: assets/audio/sfx/ENEMY_CC0_AUDIO_MAP.txt
+Downloaded and derived: 2026-08-22.

@@ -1,2 +1,1 @@
-# Deep-Rift-game-test
-Game test
+# Deep Rift v1.14.2

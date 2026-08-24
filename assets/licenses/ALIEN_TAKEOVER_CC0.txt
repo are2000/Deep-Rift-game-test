@@ -1,0 +1,6 @@
+Alien Takeover
+Author: SupermuttGames
+Source: https://supermuttgames.itch.io/alien-takeover
+License stated by source page: CC0; commercial use and modification allowed,
+standalone redistribution/resale/repackaging prohibited; no AI training.
+Used as a secondary animation/impact reference. Downloaded: 2026-08-22.

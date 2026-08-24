@@ -1,0 +1,12 @@
+00 q_capsule
+01 q_pod
+02 q_computer
+03 q_vessel
+04 q_crate
+05 q_door
+06 q_column
+07 k_structure
+08 k_computer
+09 k_container
+10 k_door
+11 k_table
